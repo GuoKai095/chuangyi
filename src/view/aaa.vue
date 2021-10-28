@@ -103,7 +103,7 @@ main .plan{
   line-height: 60px;
   text-align: center;
   font-size: 18px;
-  color: rgb(120, 155, 161);
+  color: rgb(103, 260, 256);
   background: rgb(250, 250, 250);
 }
 .mian-list{
@@ -111,6 +111,9 @@ main .plan{
   height: 50px;
   justify-content: flex-start;
   align-items: center;
+}
+.mian-list:hover{
+  background: rgba(0,0,0,.06);
 }
 .left{
   display: flex;
